@@ -28,3 +28,6 @@ D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyN
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\SecondRepos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\SecondRepos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\SecondRepos\MyInitial\obj\Debug\MyNameSpace.pdb
