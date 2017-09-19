@@ -39,6 +39,8 @@ namespace Ticketing
                 { mSection = 2; }
             if (radBox.Checked)
                 { mSection = 3; }
+            if (rbtnBackStall.Checked)
+                { mSection = 4; }
 
             mTicketPrice = new TicketPrice(mSection, mQuantity, mDiscount);
 
@@ -54,6 +56,11 @@ namespace Ticketing
         private void radGeneral_CheckedChanged(object sender, EventArgs e)
         {
            // txtDiscount.Text = (String)(mTicketPrice.AmountDue - 5.0);
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            // oops
         }
     }
 }
